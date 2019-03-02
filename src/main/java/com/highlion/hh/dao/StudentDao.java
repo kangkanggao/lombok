@@ -1,4 +1,4 @@
-package com.highlion.dao;
+package com.highlion.hh.dao;
 
 public class StudentDao {
 

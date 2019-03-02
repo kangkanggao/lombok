@@ -1,6 +1,6 @@
-package com.highlion.test;
+package com.highlion.hh.test;
 
-import com.highlion.entity.Student;
+import com.highlion.hh.entity.Student;
 
 public class Test {
 
